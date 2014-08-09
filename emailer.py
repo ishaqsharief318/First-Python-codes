@@ -1,3 +1,28 @@
+# First of all I would like to start with the explanation that this is 
+# not a spam tool. I did not use this for spamming anybody but purely to get attention to 
+# the problem i was facing from the 'perpetrators' . 
+
+# I used to play an android based game which I was addicted to. 
+# Spending upto 4-5 hours a day. It involved builidng castles, armies, attacking other people etc
+#  However there were a few issues with
+# the game, mostly server issues. After a supposedly
+# "big" update, the game started having plenty of issues. Lag, crashes etc. 
+# Whenever you were being attacked in the game you had a notification (to prepare).
+# I dint get those notifications and lost my armies( took a week to make a sizeable one)
+# I wrote to the developers but got no response. This became very common over the next few days. 
+# Then one day when I finally had a decently sized army , the game was hacked. I lost everything again. I wrote to the 
+# developers . A lot of people did, a few got their accounts restored, I dint. I waited patiently for 2 weeks, but to no avail.
+# Thats when I wrote a small little script (putting my programming skills to 
+#   some decent use) to send bulk emails. Sent about 200 emails in 1 day.
+#   The result account restored the next day :) . 
+
+#   So please, do not use this to trouble others. Use it for that
+#   developer who dsnt respond to you, to that airlines that has been ignoring your emails.
+#   Use it for good.
+
+
+
+
 from Tkinter import *
 import smtplib
 
